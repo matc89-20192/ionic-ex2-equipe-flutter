@@ -36,8 +36,8 @@
   },
   "devDependencies": {
     "@angular/cli": "1.4.8",
-    "@ionic/app-scripts": "3.1.8",
-    "@types/jasmine": "^2.5.41",
+    "@ionic/app-scripts": "^3.2.4",
+    "@types/jasmine": "^2.4.2",
     "@types/node": "^8.0.45",
     "angular2-template-loader": "^0.6.2",
     "html-loader": "^0.5.1",
